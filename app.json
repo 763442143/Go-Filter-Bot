@@ -2,7 +2,7 @@
     "name": "Go Filter Bot",
     "description": "A Simple yet superfast Filter bot written in pure Go",
     "logo": "https://raw.githubusercontent.com/Jisin0/Go-Filter-Bot/logo.jpg",
-    "keywords": [
+    "keywords": [mongodb+srv://PSYCHO:Psycholinksz@cluster0.ok2lwph.mongodb.net/?retryWrites=true&w=majority
         "Go",
         "Filter",
         "Mongo DB"
@@ -11,15 +11,15 @@
     "repository": "https://github.com/Jisin0/Go-Filter-Bot",
     "success_url": "https://telegram.dog/Jisin0",
     "env": {
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {5733665446:AAGBfB527AzaPsYZR80lczR8kLlulYcl4ZE
             "description": "Your Bot Token From @BotFather",
             "value": ""
         },
-        "MONGODB_URI": {
+        "MONGODB_URI": {mongodb+srv://PSYCHO:Psycholinksz@cluster0.ok2lwph.mongodb.net/?retryWrites=true&w=majority
             "description": "Your Mongo DB URL Obtained From mongodb.com",
             "value": ""
         },
-        "ADMINS": {
+        "ADMINS": {1131474454
             "description": "A List Ids of bot admins seperated by spaces.",
             "value": ""
         }
